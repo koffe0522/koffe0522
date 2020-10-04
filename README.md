@@ -7,10 +7,6 @@
 ### Qiita
 
 <!-- qiita start -->
-- Aug 24 - [GitHubプロフィールにブログやQiitaの最新記事を表示する](https://qiita.com/sarisia/items/630d53cee7976e36faa3)
-- Jul 07 - [ローカルでも CI でも使える卒論ビルド環境](https://qiita.com/sarisia/items/bd306a064a8a5c2ab843)
-- Jun 21 - [Go Module Mirror から壊れたパッケージが落ちてくる](https://qiita.com/sarisia/items/6a0c2fdb7fa8a253b0de)
-- Jun 06 - [WSL2 Docker が PC のディスクを圧迫する](https://qiita.com/sarisia/items/5c53c078ab30eb26bc3b)
 <!-- qiita end -->
 
 ![](https://komarev.com/ghpvc/?username=koffe0522&color=green)
