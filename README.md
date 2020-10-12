@@ -7,11 +7,11 @@
 ### Qiita
 
 <!-- qiita start -->
+- Oct 12 - [Nuxt.ts - axiosのheadersに常にtokenを付与する方法](https://qiita.com/ovama-koffee/items/750284d9dca833da047e)
+- Oct 04 - [GCPのすゝめ【Google App Engine編】](https://qiita.com/ovama-koffee/items/060e64f7121aded4ed44)
+- Oct 04 - [Nuxt.ts研究所【vuexテスト編】](https://qiita.com/ovama-koffee/items/99a13366c8a41311a0f1)
+- Sep 27 - [Nuxt.ts研究所【プロジェクト設定編】](https://qiita.com/ovama-koffee/items/d93a51076f310cca6e47)
 - Sep 19 - [GCPのすゝめ【Cloud Run編】](https://qiita.com/ovama-koffee/items/abebbcff788c47368659)
-- Mar 22 - [コピペで始めるNext.js + Firebase Hosting 【静的サイト】](https://qiita.com/ovama-koffee/items/2a6fcc70a75346c12848)
-- Jan 16 - [Next.jsでFirebase analyticsを使用する場合の注意](https://qiita.com/ovama-koffee/items/ffa37ccedc9753b4e9d6)
-- Dec 18 - [ReactNative AndroidのBridge解説](https://qiita.com/ovama-koffee/items/37d2acaa65f7fe60326e)
-- Dec 11 - [Next.js + Firebaseでの開発でハマったところ](https://qiita.com/ovama-koffee/items/4694594efe6104019ea5)
 <!-- qiita end -->
 
 ![](https://komarev.com/ghpvc/?username=koffe0522&color=green)
