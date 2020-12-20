@@ -7,11 +7,11 @@
 ### Qiita
 
 <!-- qiita start -->
+- Dec 20 - [Kotlin【入門-Coroutine-】](https://qiita.com/ovama-koffee/items/14dfed2bb1ef49e86c7d)
 - Dec 18 - [LaravelでAPIのレスポンスにバリデーションの内容をのせる方法](https://qiita.com/ovama-koffee/items/de31f43ed1e3495b00e4)
 - Dec 14 - [CDK for Terraformをやってみた](https://qiita.com/ovama-koffee/items/6ac97705fa96f3d125d9)
 - Nov 30 - [typescript拡張関数](https://qiita.com/ovama-koffee/items/7ec91e566171ccf2c74b)
 - Nov 23 - [さくっとdocker/nginx](https://qiita.com/ovama-koffee/items/a53b8c7e210a8e6d91d9)
-- Oct 12 - [Nuxt.ts - axiosのheadersに常にtokenを付与する方法](https://qiita.com/ovama-koffee/items/750284d9dca833da047e)
 <!-- qiita end -->
 
 ![](https://komarev.com/ghpvc/?username=koffe0522&color=green)
