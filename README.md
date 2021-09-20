@@ -78,12 +78,11 @@
 ### Qiita
 
 <!-- qiita start -->
-
-- Jul 11 - [コピペで使う Firebase【Local Emulator Suite 編】](https://qiita.com/koffee0522/items/5601f18e1fa06c0daac6)
-- Jun 06 - [Prisma 導入メモ](https://qiita.com/koffee0522/items/67deb39877c541bab440)
-- Jan 22 - [【Laravel】オレ得 Eloquent/QueryBuilder メモ集](https://qiita.com/koffee0522/items/01f37b96e53b1fce952a)
-- Jan 22 - [JS と Laravel で API 通信する際に日付データを合わせる(unixtime <-> Date)](https://qiita.com/koffee0522/items/5ae9faf39009f9516247)
-- Jan 03 - [javascript による並列処理](https://qiita.com/koffee0522/items/398434578431c526b267)
+- Jul 11 - [コピペで使うFirebase【Local Emulator Suite編】](https://qiita.com/koffee0522/items/5601f18e1fa06c0daac6)
+- Jun 06 - [Prisma導入メモ](https://qiita.com/koffee0522/items/67deb39877c541bab440)
+- Jan 22 - [【Laravel】オレ得 Eloquent/QueryBuilderメモ集](https://qiita.com/koffee0522/items/01f37b96e53b1fce952a)
+- Jan 22 - [JSとLaravelでAPI通信する際に日付データを合わせる(unixtime <-> Date)](https://qiita.com/koffee0522/items/5ae9faf39009f9516247)
+- Jan 03 - [javascriptによる並列処理](https://qiita.com/koffee0522/items/398434578431c526b267)
 <!-- qiita end -->
 
 ![](https://komarev.com/ghpvc/?username=koffe0522&color=green)
