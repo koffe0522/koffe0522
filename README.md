@@ -1,6 +1,7 @@
 # Hi 👋, I'm koffee.
 
 <p>Welcome to my page! </br>I'm Kansai flavor Engineer.</p>
+<p>I use typesctipt at work. golang and Rust are hobbies.</p>
 
 [![](https://raw.githubusercontent.com/koffe0522/koffe0522/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/koffe0522/koffe0522/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
