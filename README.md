@@ -83,7 +83,6 @@
 - Feb 11 - [Hardhatのチュートリアルをやってみた](https://qiita.com/koffee0522/items/daff22907b6e6ce89e13)
 - Dec 11 - [[Prisma] チートシート](https://qiita.com/koffee0522/items/92be1826f1a150bfe62e)
 - Dec 05 - [GraphQLのディレクティブについて](https://qiita.com/koffee0522/items/bb623f974c418f5e15b0)
-- Nov 22 - [【2021年度】使って便利だったSaasたち](https://qiita.com/koffee0522/items/e7930263b5a784ad1fa1)
 <!-- qiita end -->
 
 ![](https://komarev.com/ghpvc/?username=koffe0522&color=green)
